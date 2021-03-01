@@ -1,4 +1,4 @@
-public class AddressBook{
+public class AddressBookMain{
 
  String firstName;
     String lastName;
